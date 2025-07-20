@@ -1,0 +1,6 @@
+com\example\dbunit\AbstractDbTest.class
+com\example\dbunit\DbUnitTestSuite.class
+com\example\dbunit\SchemaTest.class
+com\example\dbunit\FunctionTest.class
+com\example\dbunit\ProcedureTest.class
+com\example\dbunit\TriggerTest.class

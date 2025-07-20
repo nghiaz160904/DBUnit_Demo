@@ -1,0 +1,6 @@
+<dataset>
+  <users id="1" username="alice" email="alice@example.com" created_at="2025-07-01 10:00:00"/>
+  <users id="2" username="bob"   email="bob@example.com"   created_at="2025-07-02 11:00:00"/>
+  <!-- Chưa có posts, sẽ test sp_create_post -->
+  <posts/>
+</dataset>

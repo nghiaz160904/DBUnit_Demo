@@ -1,0 +1,5 @@
+<dataset>
+  <users id="1" username="alice" email="alice@example.com" created_at="2025-07-01 10:00:00"/>
+  <!-- posts ban đầu rỗng -->
+  <posts/>
+</dataset>
