@@ -1,6 +1,5 @@
-D:\Nghia\Nam3\HK3\SoftwareTesting\DBUnit\dbunit-demo\src\test\java\com\example\dbunit\ProcedureTest.java
-D:\Nghia\Nam3\HK3\SoftwareTesting\DBUnit\dbunit-demo\src\test\java\com\example\dbunit\DbUnitTestSuite.java
-D:\Nghia\Nam3\HK3\SoftwareTesting\DBUnit\dbunit-demo\src\test\java\com\example\dbunit\FunctionTest.java
-D:\Nghia\Nam3\HK3\SoftwareTesting\DBUnit\dbunit-demo\src\test\java\com\example\dbunit\TriggerTest.java
-D:\Nghia\Nam3\HK3\SoftwareTesting\DBUnit\dbunit-demo\src\test\java\com\example\dbunit\AbstractDbTest.java
-D:\Nghia\Nam3\HK3\SoftwareTesting\DBUnit\dbunit-demo\src\test\java\com\example\dbunit\SchemaTest.java
+D:\Nghia\Nam3\HK3\SoftwareTesting\DBUnit\DBUnit_Demo\dbunit-demo\src\test\java\com\example\dbunit\FunctionTests.java
+D:\Nghia\Nam3\HK3\SoftwareTesting\DBUnit\DBUnit_Demo\dbunit-demo\src\test\java\com\example\dbunit\BaseDbTest.java
+D:\Nghia\Nam3\HK3\SoftwareTesting\DBUnit\DBUnit_Demo\dbunit-demo\src\test\java\com\example\dbunit\TriggerTests.java
+D:\Nghia\Nam3\HK3\SoftwareTesting\DBUnit\DBUnit_Demo\dbunit-demo\src\test\java\com\example\dbunit\ProcedureTests.java
+D:\Nghia\Nam3\HK3\SoftwareTesting\DBUnit\DBUnit_Demo\dbunit-demo\src\test\java\com\example\dbunit\SchemaTests.java

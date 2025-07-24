@@ -1,0 +1,5 @@
+# Created at 2025-07-24T09:39:24.951
+Boot Manifest-JAR contains absolute paths in classpath 'D:\Nghia\Nam3\HK3\SoftwareTesting\DBUnit\DBUnit_Demo\dbunit-demo\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+

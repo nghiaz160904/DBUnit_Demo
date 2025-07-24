@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.example.dbunit.SchemaTests
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 4.658 s -- in com.example.dbunit.SchemaTests
